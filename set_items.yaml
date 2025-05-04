@@ -1,0 +1,9 @@
+# set_items.yaml（例）
+セット商品コード一覧:
+  - kobutsu-plate-frame-kon
+  - kobutsu-plate-frame-noukon
+  - kobutsu-plate-kon
+  - kobutsu-plate-noukon
+  - kobutsu-plate-wood-kon
+  - kobutsu-plate-wood-noukon
+  - wifi-plate-hinoki
